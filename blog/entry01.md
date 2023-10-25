@@ -6,13 +6,19 @@ Looking at the different topics to pick for the freedom project Game development
 
 
 ### Engineering Design Process
-I am the first stage during engineering design process and this stage is about defining a problem within animation. The problem we have is that people are visual learners and we need more visual animations to show people how to learn the thing you wanted to learn. The next step could be researching the problem from articles and talking to peers how we can solve this problem.
+I am in the first stage during engineering design process and this stage is about defining a problem within animation. The problem we have is that people are visual learners and we need more visual animations to show people how to learn the thing you wanted to learn. The next step could be researching the problem from articles and talking to peers how we can solve this problem.
 
 ### Skills
-Skills that I learn from doing this topic is communication and googling what I am intersted in.
+Skills that I learn from doing this topic is communication and researching
 
 ##### Communication
-When I thought about the problem for animations I was stunned a bit since I couldn't think of one. I asked my cousin's for an idea and I brought up education. My cousin said maybe we should help visual learners and It clicked for me.
+When I thought about the problem for animations I was stunned a bit since I couldn't think of one. I asked my cousin's for an idea and I brought up education. My cousin said maybe we should help visual learners and It clicked for me so I went with that.
+
+##### Researching 
+When I googled animation I saw things I was interested about like at the first link it told me a lot of about animation I didn't know about. I would research them too and I would learn a lot about animation that can be used in different ways.
+
+### Next Step 
+I am excited to research this topic to the furthest and make innovations on solving this problem.
 
 
 
