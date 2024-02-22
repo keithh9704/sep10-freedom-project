@@ -25,7 +25,7 @@ I used jsbin to use the aframe commands which were
 ```
 ![Screenshot 2024-02-21 213801](https://github.com/keithh9704/sep10-freedom-project/assets/146886714/4e2c0542-e24a-41f0-8de3-91a89bc68ebf)
 
-This code makes a person out of shape. I tried to make things rotate and change the position of the cylinders so they act like arms and legs. For the body I made the box float up in the air and make the box look like it's attached to the cylinders which are the arms and legs. For the head I made the sphere float above the square and made the sphere radius bigger than any other shape.    
+This code makes a person with shapes. I made things rotate and change the position of the cylinders so they act like arms and legs. For the body I made the box float up in the air and make the box look like it's attached to the cylinders which are the arms and legs. For the head I made the sphere float above the square and made the sphere radius bigger than any other shape.    
 I learned all this from a [slideshow](https://docs.google.com/presentation/d/1nsptrTVH5fI2NpvmmE3PffaUNODlpyxpB-LgH4Eko5A/edit#slide=id.g84acedc9de_0_70) that was a workshop made up from bayside high school and the slides helped me learn how to use aframe at a really basic level.
 ### Skills
 I learned how to problem decomposition since this would help me to use the code at hand and I also worked on creativity because instead of just showing floating shapes I thought maybe I could make a person out of shapes.
