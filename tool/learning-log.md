@@ -10,11 +10,12 @@ Position:
 * -Y makes the shape go down
 * Y makes the shape go up
 * -Z makes the shape go forward
-* Z makes the shape go backwards
+* Z makes the shape go backward
 
 Things I tried:
 * changing colors, increasing/decreasing the sizes of the shape,
-* The shapes are called entities 
+* The shapes are called entities
+  
 Links:
 
 * [AFrame](https://aframe.io/docs/1.5.0/introduction/html-and-primitives.html)
