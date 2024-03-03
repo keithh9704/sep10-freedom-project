@@ -19,6 +19,7 @@ Things I tried:
 Links:
 
 * [AFrame](https://aframe.io/docs/1.5.0/introduction/html-and-primitives.html)
+* [Did Activity 1](https://docs.google.com/presentation/d/1nsptrTVH5fI2NpvmmE3PffaUNODlpyxpB-LgH4Eko5A/edit#slide=id.g84acedc9de_0_70)
 
 
 <!--
