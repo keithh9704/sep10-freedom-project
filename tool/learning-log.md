@@ -27,7 +27,7 @@ Tool: **Aframe**
 * The a-sky repersents the background so you could make the background whatever color you want.
 * Putting components like sphere cylinder inside an `<a-entity></a-entity>` could be used to add a css element to every component that is in the `<a-entity></a-entity>`.
 * Using `<a-camera></a-camera>` you can use the x y and z in postioning to choose where the user will see your website from.
-
+* Putting visible with an a-entity could make the components in the a-entity appear or dissapear. Example of the code `<a-entity visible=true/false> </a-entity>
 
 Things I tried:
 * changing colors, increasing/decreasing the sizes of the shape,
@@ -40,7 +40,9 @@ Links:
 * [AFrame](https://aframe.io/docs/1.5.0/introduction/html-and-primitives.html)
 * [Workshop Slides](https://docs.google.com/presentation/d/1nsptrTVH5fI2NpvmmE3PffaUNODlpyxpB-LgH4Eko5A/edit#slide=id.g84acedc9de_0_70)
 * [Forked a replit from workshop slides](https://replit.com/@keithh32/EscapingRealityS1WinterWonderlandv1-Tinkering)
-
+* [Controling wasd](https://aframe.io/docs/1.5.0/components/wasd-controls.html)
+* [Preview on how text on 3d works](https://aframe.io/aframe/examples/test/text/index.html)
+* [Example code I tinkered with](https://github.com/aframevr/aframe/blob/master/examples/test/text/index.html)
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
