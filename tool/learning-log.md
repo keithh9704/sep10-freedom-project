@@ -40,8 +40,9 @@ Things I tried:
 * Using Src to make really funny things to show my friends
 * Making shapes disappear or appear
 * Make the user start below or above the aframe and make the movement fast or slow
-* Adding text
-Links:
+* Adding text   
+
+Links:   
 
 * [AFrame](https://aframe.io/docs/1.5.0/introduction/html-and-primitives.html)
 * [Workshop Slides](https://docs.google.com/presentation/d/1nsptrTVH5fI2NpvmmE3PffaUNODlpyxpB-LgH4Eko5A/edit#slide=id.g84acedc9de_0_70)
