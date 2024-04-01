@@ -38,12 +38,17 @@ Things I tried:
 * The shapes are called entities
 * trying out different shapes that are not given to you when you paste in the code to tinker with aframe
 * Using Src to make really funny things to show my friends
+
+* Making things appear and disappear
+* Adding text on 3D Images
+* Controling the camera levels and how fast the user moves around the aframe space
+=======
 * Making shapes disappear or appear
 * Make the user start below or above the aframe and make the movement fast or slow
 * Adding text   
 
-Links:   
 
+Links:
 * [AFrame](https://aframe.io/docs/1.5.0/introduction/html-and-primitives.html)
 * [Workshop Slides](https://docs.google.com/presentation/d/1nsptrTVH5fI2NpvmmE3PffaUNODlpyxpB-LgH4Eko5A/edit#slide=id.g84acedc9de_0_70)
 * [Forked a replit from workshop slides](https://replit.com/@keithh32/EscapingRealityS1WinterWonderlandv1-Tinkering)
@@ -51,6 +56,7 @@ Links:
 * [Controling wasd](https://aframe.io/docs/1.5.0/components/wasd-controls.html)
 * [Preview on how text on 3d works](https://aframe.io/aframe/examples/test/text/index.html)
 * [Example code I tinkered with](https://github.com/aframevr/aframe/blob/master/examples/test/text/index.html)
+
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
