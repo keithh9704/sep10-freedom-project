@@ -55,7 +55,9 @@ Added at 3/18/24 (should be 3/16/24 but forgot to commit + push)
 ```
 Added at 3/31/24
 * If you want to add a cursor you must add a `<a-cursor></a-cursor>` inside of a `<a-camera></a-camera>`
-
+Added at 4/3/24
+* If you want to make a 360 degree image gallery in the AFrame space you have to get a jpg and link it to an id. An example of the code:
+`<img id="cookie"src="https://www.dessertfortwo.com/wp-content/uploads/2023/04/Single-Serve-Chocolate-Chip-Cookie-5.jpg">`
 
 Things I tried:
 
