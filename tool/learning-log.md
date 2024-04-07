@@ -99,7 +99,7 @@ Added at 3/18/24 (should be 3/16/24 but forgot to commit + push)
 * [Example code I tinkered with](https://github.com/aframevr/aframe/blob/master/examples/test/text/index.html)
 
 Added at 4/7/24
-* [Previous freedom projects examples](https://andyc6074.github.io/sep10-freedom-project/aframe/lifespan.html)
+* [Previous freedom projects example](https://andyc6074.github.io/sep10-freedom-project/aframe/lifespan.html)
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
