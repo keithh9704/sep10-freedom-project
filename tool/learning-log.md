@@ -58,6 +58,7 @@ Added 4/7/24
 * When you position the text you have to first select an anchor (left, center, right)
 * Then you can adjust if the text should be more left or more right by using position= x y z.
 * The values of x y and z is the same thing when positioning shapes.
+  
 Added at 3/31/24
 * If you want to add a cursor you must add a `<a-cursor></a-cursor>` inside of a `<a-camera></a-camera>`
   
