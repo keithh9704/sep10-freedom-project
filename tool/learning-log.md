@@ -53,8 +53,14 @@ Added at 3/18/24 (should be 3/16/24 but forgot to commit + push)
 ```
 <a-entity position="41 2 -3" text="anchor: right; width: 45; color: blue; value: Hi name" </a-entity>
 ```
+
+Added 4/7/24
+* When you position the text you have to first select an anchor (left, center, right)
+* Then you can adjust if the text should be more left or more right by using position= x y z.
+* The values of x y and z is the same thing when positioning shapes.
 Added at 3/31/24
 * If you want to add a cursor you must add a `<a-cursor></a-cursor>` inside of a `<a-camera></a-camera>`
+  
 Added at 4/3/24
 * If you want to make a 360 degree image gallery in the AFrame space you have to get a jpg and link it to an id. An example of the code:
 `<img id="cookie"src="https://www.dessertfortwo.com/wp-content/uploads/2023/04/Single-Serve-Chocolate-Chip-Cookie-5.jpg">`
@@ -91,6 +97,8 @@ Added at 3/18/24 (should be 3/16/24 but forgot to commit + push)
 * [Preview on how text on 3d works](https://aframe.io/aframe/examples/test/text/index.html)
 * [Example code I tinkered with](https://github.com/aframevr/aframe/blob/master/examples/test/text/index.html)
 
+Added at 4/7/24
+* [Previous freedom projects examples](https://andyc6074.github.io/sep10-freedom-project/aframe/lifespan.html)
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
