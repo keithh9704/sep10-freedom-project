@@ -23,7 +23,14 @@ From what I left off in [Blog4](entry04.md) I went to do research what else afra
  ### How I Learned my tool
  From the previous [Blog4](entry04.md) I used a [slideshow](https://docs.google.com/presentation/d/1nsptrTVH5fI2NpvmmE3PffaUNODlpyxpB-LgH4Eko5A/edit#slide=id.g84acedc9de_0_70) and [jsbin](https://jsbin.com/?html,css,output) to test out what I learned the sildeshow. After that week I would go on the offical [aframe](https://aframe.io/docs/1.5.0/introduction/) and look at most of the components I would like to use to make for my freedom project. Some of these components I can't use with jsbin because they don't support download things from my computer so I use [replit](https://replit.com) and I could use these components perfectly and see what I can use this for.
  Sometimes when I try to tinker with the codes on aframe website I would get stuck and get really confused. I solved this problem by using inspect element like on [putting text on a 3D Space](https://aframe.io/aframe/examples/test/text/index.html). I would also use previous [freedom project examples](https://andyc6074.github.io/sep10-freedom-project/aframe/lifespan.html) to help me expand of my knowledge of aframe. **I would add my own images and add shapes that I want to use for my freedom project to get a glimpse how this presented.**
- 
+ ### Skills
+ I have extended my knowledge of researching and grabbing different parts of readings so test them out to better understand the topic at hand. I also learned how to understand codes with my own twist so I would increase my knowledge on the topic at hand.
+ #### Researching
+ Since I mostly used the aframe offical website and they would write a lot of things about different components and I would take parts of the readings and test them out which makes me understand how does the component work.
+ #### Creativity
+ I use inspect element alot and sometimes I don't know even given the code how does it work and how this code does what it does. Most to all the time I input my ideas for a component I immeditaly understand what the code is doing.
+ ### Next Steps
+ I will be creating my website for animation which would be really exciting but I have one more thing to learn is inputing blender to aframe before I can start doing my aframe part of the freedom project.
 
 [Previous](entry04.md) | [Next](entry06.md)
 
