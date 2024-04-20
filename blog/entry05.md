@@ -4,7 +4,13 @@
 I continued to learn my tool (aframe) and found some interesting things that I could do since aframe is a VR world.
 #### Learning my tool
 From what I left off in [Blog4](entry04.md) I went to research what else aframe can do than just create shapes and be able to move them. I would find out that you can input pictures of your own to the whole aframe space or a part of the aframe space. An example of the code is
-```<a-scene>
+```
+<html>
+  <head>
+    <script src="https://aframe.io/releases/1.5.0/aframe.min.js"></script>
+  </head>
+   <body>
+<a-scene>
       <a-assets>
       <img id="logo" src="54AFCF4A-4F9C-4E78-A984-C5BD91A48BEE.jpg">
         <img id="logo2" src="A4599694-8BB9-4EEA-A778-B60542C89CC2.jpg">
@@ -15,6 +21,8 @@ From what I left off in [Blog4](entry04.md) I went to research what else aframe 
       <a-sky src="#logo" color="#ECECEC"></a-sky>
       <a-camera scr="#logo" position="0 10 0"></a-camera>
     </a-scene>
+    </body>
+  </html>
 ```
 
 
