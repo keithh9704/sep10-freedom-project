@@ -21,17 +21,23 @@
         <!-- HTML -->
         <nav class="navbar fixed-top navbar-expand-lg bg-body-tertiary">
             <div class="container-fluid">
-              <a class="navbar-brand" href="#">Navbar</a>
+              <a class="navbar-brand" href="#">Animation</a>
               <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
               </button>
               <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                   <li class="nav-item">
-                    <a class="nav-link active" aria-current="page" href="#">Home</a>
+                    <a class="nav-link active" aria-current="page" href="#welcome">Home</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="#">Link</a>
+                    <a class="nav-link" href="#parta">Past</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#partb">Future</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#credit">Credits</a>
                   </li>
                 </ul>
               </div>
@@ -45,7 +51,8 @@
               </div>
             </div>
           </div>
-          <div class="accordion accordion-flush" id="accordionExample">
+          <div class="container-fluid" id=parta>
+          <div class="accordion" id="accordionPanelsStayOpen">
             <div class="accordion-item">
               <h2 class="accordion-header">
                 <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
@@ -101,10 +108,10 @@
           </div>
       <div class="container-fluid">
         <div class="row accordion">
-          <div class="col-sm-12 col-lg-6 ">
+          <div class="col-sm-12 col-lg-6" id=image>
             <img src="green-screen.png">
           </div>
-          <div class="col-sm-12 col-lg-6" id=image>
+          <div class="col-sm-12 col-lg-6" >
             <img src="early-animation.png">
           </div>
          </div>
@@ -112,7 +119,7 @@
        <div class="container-fluid" id="partb">
          <div class="row">
           <div class="col-sm-12 col-lg-6">
-           <h2> Things that made happen in the future </h2>
+           <h2> Things that made happen in the future (2024-Future)</h2>
             <h4> A program that creates an animation from a starting image and the end result. </h4>
               <li> This program takes in a image and it programs what is the topic about which you could change </li>
               <li> Then you put how the story ends and it would produce an animation. </li>
@@ -129,12 +136,17 @@
               <li> When you put in a sentence or something you want to know in the program it would produce a short animation about the subject </li>
               <li> There would be a camera option and they can show an object and the program would produce a short animation from there </li>
               <li> You can also draw for this program to run as well </li>
-          </div>
-         </div>
+              </div>
+            <div class="col-sm-12 col-lg-6">
+              <h2>Here is a prototype of one of the inventions I came up with:</h2>
+              <iframe src= aframe.html class=aframe>
+
+              </iframe>
+            </div>
         </div>
        </div>
        <div class="container-fluid">
-        <div class="container">
+        <div class="container" id=credit>
          <h3>The Images I used that came from:</h3>
          https://www.awn.com/sites/default/files/styles/inline/public/image/featured/53128-all-world-s-virtual-stage-disney-s-new-camera-capture-system.jpg?itok=M2w4JaxQ
          https://www.zaragoza.es/cont/paginas/noticias/cine3-1.jpg
