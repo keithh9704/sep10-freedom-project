@@ -23,7 +23,20 @@ After this was inputed in the website I realized that I had to make my text bigg
 ### Adding Images and Aframe to my website
 When I was done using my components on the website I went to add images. One of my Images were too small and one of my images were too big. I was so confused on how to change the size since I tried using `width: 100%;`. I Asked my friend johnny if he knew anything and showed me that I had to resize the image from the file in my computer which make the website more responsive. Although It doesn't fit the whole box I am planning to fix that when I am working beyond mvp.
 
+### Enginnering Design Process 
+I am at the 8th step of the EDP which is Communicating the results because I made a website communicating my prototype. On the other hand I feel like I need to go back a step to step 7 which is improving as needed since I want to work beyond mvp on my website to make it more responsive and not look like I put really low effort on my freedom project.
 
+### Skills
+The time between Blog 5 and Blog 6 I haven't really learned anything new skills but I have enhanced on skimming lines of code and grabbing the information I need and tinkering with the code with my own images and text on my website. I also worked on time management because knowing that working on this website in just one day would be really bad especially on the last day before going back to school.
+
+### Grabbing information from lines of code to tinker with
+When I was struggling making my background image I used inspected element on the template I was going to use and there was a lot of lines of code so I looked for the css code under the id or class that the image was connected to and got my information I need. Every website is different so instead of just leaving the code how it is saying i did it I tinkered with the sizing to my own liking.
+
+### Time Management
+Since I had to finish this website over the spring break I didn't want to procrastinate to the last day to finish the website so I give myself 3-4 days to do parts of the website which made me feel stress free since I had other homeworks to do.
+
+### Next Step
+I look forward to work beyond MVP and present my website in the expo on what I worked on during the past year taking the sep course.
  
 
 [Previous](entry05.md) | [Next](entry07.md)
