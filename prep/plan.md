@@ -35,7 +35,7 @@ Fourth input aframe with blender
 
 Five Add Finishing Touches (maybe add more css elements or more Images)
 
-Sixth Work on beyond mvp 
+Sixth Work on beyond mvp
 #### MVP
 
 * Task/Timeline
@@ -43,7 +43,7 @@ Sixth Work on beyond mvp
 ---
 
 #### Beyond MVP
-* Make space in between my information
-* Fix aframe on mobile while being responsive on computer
-* Make navbar more pretty
-* Fix some components  
+* Make space in between my information (half-done)
+* Fix aframe on mobile while being responsive on computer (done)
+* Make navbar more pretty (didn't start)
+* Fix some components (didn't start)
