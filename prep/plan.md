@@ -43,5 +43,7 @@ Sixth Work on beyond mvp
 ---
 
 #### Beyond MVP
-
-* Add another Invention
+* Make space in between my information
+* Fix aframe on mobile while being responsive on computer
+* Make navbar more pretty
+* Fix some components  
