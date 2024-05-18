@@ -45,5 +45,5 @@ Sixth Work on beyond mvp
 #### Beyond MVP
 * Make space in between my information (Done)
 * Fix aframe on mobile while being responsive on computer (done)
-* Make navbar more pretty (didn't start)
+* Make navbar more pretty (half done)
 * Fix some components (Mostly Finished)
