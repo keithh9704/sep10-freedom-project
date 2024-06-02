@@ -19,7 +19,13 @@ As of Today 6/1/24 I finished the 8th/last step of the edp which is commmunicati
 While the time between the blog 6 and 7 I enhanced my Communication skills and Having a growth mindset.
 
 #### Communication
-As I said earlier I presented to many people during my expo and each time I would try to think how I could get better before the next group of people come to my website. So I came up with a lot of ideas to incourage myself to keep going such as "there is no harm into sharing your ideas" and/or "this is easy since you are familiar with this content". 
+As I said earlier I presented to many people during my expo and each time I would try to think how I could get better before the next group of people come to my website. So I came up with a lot of ideas to incourage myself to keep going such as "_there is no harm into sharing your ideas_" and/or "_this is easy since you are familiar with this content_". 
+
+#### Growth mindset
+My cousins that I haven't seen in 5 years came to new york and I visited them at my grandma's house and had a lot of fun like going to a dave and busters. On the way back home I asked them if they have any ideas on how I should present my website and I would show them my website. They would suggest to speak loudly and look at your audience and don't be shy to be overly excited to present your website. So I took that advice with my own twist and presentations went well for me.
+
+### Next Step
+Sadly I wasn't one of the top 3 or an honorable mentions but I am proud of myself and going to sep11 I am curious what are the limits of javascript and the pros and cons. 
 
 [Previous](entry06.md) | [Next](entry08.md)
 
