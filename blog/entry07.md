@@ -5,7 +5,7 @@
 ### Context
 After presenting my website to the whole class, my teacher, and to a lot of people at the expo including the principal. This was a really fun learning experience since it gave me a lot of exposure to public speaking which I found nerve-wracking. Still, as I presented to more and more people I got used to the feeling and turned the experience into a happy experience.
 ### In-Class presentation
-After I was done doing [class presentation](https://docs.google.com/presentation/d/1UXiFxFk7Ry688JfwIaKWPsnIpOsqpvgscL0ZG3oBrEw/edit#slide=id.g2ddf02d20b4_0_2) I thought I took too long to present my website and I saw myself stuttering and talking a bit too fast on explain what aframe is and how it connected to blender. I was nervous my hands and body were shaking but I pushed through and got where I am today.
+After I was done doing [class presentation](https://docs.google.com/presentation/d/1UXiFxFk7Ry688JfwIaKWPsnIpOsqpvgscL0ZG3oBrEw/edit#slide=id.p) I thought I took too long to present my website and I saw myself stuttering and talking a bit too fast on explain what aframe is and how it connected to blender. I was nervous my hands and body were shaking but I pushed through and got where I am today.
 #### Takeaway From In-Class Presentation
 When you are doing public speaking try to ignore the fact that you are showing your presentation to people. Focus on yourself and talk at a pace people would understand you.
 ### Expo Presentation
