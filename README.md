@@ -16,9 +16,11 @@ I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **A
 
 ## Implications
 ##### PROS
-* 
+* Tells people about Animation though the years
+* Prototype could help movies come out faster = More money for company
 ##### CONS
-* 
+* Doesn't do anything that helps the world 
+* The process making my prototype may produce more toxic gasses into the air.
 
 
 ## Blog
@@ -31,6 +33,3 @@ Below you will find my blog about how I made my project.
 * [Entry 5](blog/entry05.md)
 * [Entry 6](blog/entry06.md)
 * [Entry 7](blog/entry07.md)
-* [Entry 8](blog/entry08.md)
-* [Entry 9](blog/entry09.md)
-* [Entry 10](blog/entry10.md)
